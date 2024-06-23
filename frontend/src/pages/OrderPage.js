@@ -26,7 +26,7 @@ const OrderPage = () => {
     <div>
       {
          !data[0] && (
-          <p>No Order available</p>
+          <p>Thanks for your order . WE will make sure it will reach on time .Thank you</p>
          )
       }
 
